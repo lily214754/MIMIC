@@ -1,0 +1,920 @@
+proportion_patient,drug,blood_counts
+1.0,Mucinex,1
+1.0,Bupivacaine 0.75%,1
+1.0,Morphine Sulfate IR,1
+1.0,Amaryl,1
+1.0,Triamcinolone Acetonide 0.1% Cream,1
+1.0,Cepacol (Menthol),1
+1.0,Metronidazole Gel 0.75%-Vaginal,1
+1.0,Neutra-Phos,1
+1.0,Clonazepam,1
+1.0,Fluticasone-Salmeterol (250/50) ,1
+1.0,Nystatin Oral Suspension,1
+1.0,Lidocaine 1% (For PICC/Midline Insertions),1
+1.0,Diazepam,1
+1.0,Oxycodone SR (OxyconTIN),1
+1.0,Atenolol,1
+1.0,Isosorbide Mononitrate,1
+1.0,Sodium Bicarbonate,1
+1.0,Nitrofurantoin (Macrodantin),1
+1.0,Iso-Osmotic Sodium Chloride,1
+1.0,Pyridostigmine Bromide,1
+1.0,Fexofenadine,1
+1.0,Succinylcholine,1
+1.0,Nitroglycerin Ointment  2%,1
+1.0,ProAir HFA,1
+1.0,Sodium Chloride Nasal,1
+1.0,Metoprolol Succinate XL,1
+1.0,Zolpidem Tartrate,1
+1.0,AcetaZOLamide Sodium,1
+1.0,Ibuprofen,1
+1.0,Digoxin,1
+1.0,Niacin,1
+1.0,Nitroglycerin SL,1
+1.0,Actonel,1
+1.0,Sucralfate,1
+1.0,Fleet Enema,1
+1.0,Bupivacaine 0.5%,1
+1.0,Beclomethasone Dipropionate,1
+1.0,Olanzapine (Disintegrating Tablet),1
+1.0,NORepinephrine,1
+1.0,Multivitamin IV,1
+1.0,Amitriptyline,1
+1.0,Lanso,1
+1.0,NIFEdipine,1
+1.0,Nitroprusside Sodium,1
+1.0,PNEUMOcoccal Vac Polyvalent,1
+1.0,BuPROPion (Sustained Release),1
+1.0,Levofloxacin,1
+1.0,Nicotine Patch,1
+1.0,Enalaprilat,1
+1.0,ALPRAZolam,1
+1.0,glimepiride,1
+1.0,Tizanidine,1
+1.0,Phentolamine Mesylate,1
+1.0,Morphine SR (MS Contin),1
+1.0,Sodium Phosphate,1
+1.0,Vasopressin,1
+1.0,MethylPREDNISolone Sodium Succ,1
+1.0,Neurontin,1
+1.0,D10W,1
+1.0,Ferrous Gluconate,1
+1.0,Nystatin,1
+1.0,Ondansetron ODT,1
+1.0,Cetirizine,1
+1.0,lansoprazole,1
+1.0,Desmopressin Acetate,1
+1.0,Gastroview (Diatrizoate Meglumine & Sodium),1
+1.0,Pantoprazole Sodium,1
+1.0,Nasonex,1
+1.0,Magnesium Citrate,1
+1.0,Gleevec,1
+1.0,Ciprofloxacin IV,1
+1.0,Acetaminophen w/Codeine Elixir,1
+1.0,OxycoDONE-Acetaminophen Elixir,1
+1.0,Naloxone,1
+1.0,Fluticasone-Salmeterol Diskus (250/50) ,1
+1.0,Sodium Chloride,1
+1.0,Fluticasone-Salmeterol Diskus (100/50),1
+1.0,Bumetanide,1
+1.0,Phytonadione,1
+1.0,Qvar,1
+1.0,Dulera,1
+1.0,Midodrine,1
+1.0,Famotidine,1
+1.0,Potassium Chloride (Powder),1
+1.0,Hydrocortisone Na Succ.,1
+1.0,Ranitidine (Liquid),1
+1.0,OLANZapine (Disintegrating Tablet),1
+1.0,Tegretol XR,1
+1.0,Guaifenesin ER,1
+1.0,Promethazine,1
+0.98780487804878048,Neostigmine,1
+0.98765432098765427,Chlorhexidine Gluconate 0.12% Oral Rinse,1
+0.97058823529411764,Docusate Sodium (Liquid),1
+0.967741935483871,Dextrose 5%,1
+0.963855421686747,Insulin Human Regular,1
+0.95294117647058818,Glycopyrrolate,1
+0.93333333333333335,Polyethylene Glycol,1
+0.93333333333333335,Lactated Ringers,1
+0.91666666666666663,NiCARdipine IV,1
+0.9101123595505618,Calcium Gluconate,1
+0.9,0.83% Sodium Chloride,1
+0.89189189189189189,Heparin Flush (10 units/ml),1
+0.88888888888888884,Albumin 25% (12.5g / 50mL),1
+0.8571428571428571,Ascorbic Acid,1
+0.84615384615384615,EPINEPHrine,1
+0.83333333333333337,Lidocaine Jelly 2% (Urojet),1
+0.83333333333333337,DiphenhydrAMINE,1
+0.83333333333333337,Protamine Sulfate,1
+0.83333333333333337,D5W,1
+0.83333333333333337,Ferrous Sulfate,1
+0.81818181818181823,Aspirin,1
+0.80645161290322576,LR,1
+0.8,Epinephrine,1
+0.8,Bisacodyl,1
+0.8,Pneumococcal Vac Polyvalent,1
+0.8,Phosphorus,1
+0.8,Sarna Lotion,1
+0.8,Cephalexin,1
+0.7857142857142857,Sterile Water,1
+0.77777777777777779,Fentanyl Citrate,1
+0.77777777777777779,Meperidine,1
+0.77419354838709675,Glucagon,1
+0.75961538461538458,Metoclopramide,1
+0.75714285714285712,Albumin 5% (25g / 500mL),1
+0.75,Insulin Pump (Self Administering Medication),1
+0.75,Allopurinol,1
+0.75,Chlorothiazide Sodium,1
+0.75,Senna,1
+0.75,Lidocaine 5% Patch,1
+0.75,Fluticasone Propionate 110mcg,1
+0.72413793103448276,Dexmedetomidine,1
+0.7142857142857143,Ipratropium Bromide MDI,1
+0.7142857142857143,Potassium Phosphate,1
+0.7142857142857143,Ciprofloxacin HCl,1
+0.7142857142857143,Albumin 5% (12.5g / 250mL),1
+0.711864406779661,Glucose Gel,1
+0.7,Lactulose,1
+0.696969696969697,Soln,1
+0.69117647058823528,Oxycodone-Acetaminophen (5mg-325mg),1
+0.6875,Clopidogrel,1
+0.68644067796610164,Nitroglycerin,1
+0.675,Ondansetron,1
+0.66666666666666663,Simethicone,1
+0.66666666666666663,Fluticasone-Salmeterol Diskus (500/50) ,1
+0.66666666666666663,Oxybutynin,1
+0.66666666666666663,GlipiZIDE,1
+0.66666666666666663,Loratadine,1
+0.66666666666666663,Omeprazole,1
+0.66666666666666663,Torsemide,1
+0.66666666666666663,Pravastatin,1
+0.66666666666666663,TraZODone,1
+0.66666666666666663,Vitamin D,1
+0.66666666666666663,Magnesium Sulfate (Latex Free),1
+0.66666666666666663,Donepezil,1
+0.66666666666666663,Fentanyl Patch,1
+0.66666666666666663,Niacin SR,1
+0.66666666666666663,Cyanocobalamin,1
+0.66666666666666663,Docusate,1
+0.66666666666666663,Calcium Carbonate,1
+0.6428571428571429,Albuterol-Ipratropium,1
+0.6428571428571429,Rosuvastatin Calcium,1
+0.6428571428571429,Propofol,1
+0.63636363636363635,Heparin,1
+0.62745098039215685,TraMADOL (Ultram),1
+0.6,Albuterol Inhaler,1
+0.6,Montelukast Sodium,1
+0.6,Sertraline,1
+0.59842519685039375,CefazoLIN,1
+0.58823529411764708,Vial,1
+0.58064516129032262,Albuterol 0.083% Neb Soln,1
+0.57798165137614677,Bag,1
+0.5714285714285714,Lisinopril,1
+0.55555555555555558,Tamsulosin,1
+0.5436241610738255,Milk of Magnesia,1
+0.54347826086956519,Simvastatin,1
+0.54054054054054057,Magnesium Sulfate,1
+0.53846153846153844,Ipratropium Bromide Neb,1
+0.53191489361702127,Phenylephrine,1
+0.51063829787234039,Atorvastatin,1
+0.50943396226415094,Aspirin EC,1
+0.5,PHENYLEPHrine,1
+0.5,Quinine Sulfate,1
+0.5,Calcitriol,1
+0.5,FoLIC Acid,1
+0.5,Cepastat (Phenol) Lozenge,1
+0.5,Nephrocaps,1
+0.5,Vitamin B Complex,1
+0.5,Propoxyphene Nap.-Apap (N-100),1
+0.5,Timolol Maleate 0.5%,1
+0.5,Multivitamins W/minerals,1
+0.5,Fluticasone Propionate NASAL,1
+0.5,Finasteride,1
+0.5,Olanzapine,1
+0.5,OxycoDONE (Immediate Release) ,1
+0.5,Ezetimibe,1
+0.5,Isosorbide Mononitrate (Extended Release),1
+0.5,Pantoprazole,1
+0.5,Valsartan,1
+0.5,Iso-Osmotic Dextrose,1
+0.5,Midazolam,1
+0.5,Docusa,1
+0.5,Docusate ,1
+0.5,MetFORMIN (Glucophage),1
+0.5,Gabapentin,1
+0.5,Acetaminophen IV,1
+0.5,Calcium Acetate,1
+0.5,Scopolamine Patch,1
+0.5,Terazosin,1
+0.5,Latanoprost 0.005% Ophth. Soln.,1
+0.5,Tiotropium Bromide,1
+0.5,Ipratropium-Albuterol Neb,1
+0.5,Guaifenesin,1
+0.5,Lansoprazole Oral Disintegrating Tab,1
+0.5,Levoxyl,1
+0.5,ClonazePAM,1
+0.5,0.9% Sodium Chloride (Mini Bag Plus),1
+0.5,PrimiDONE,1
+0.5,Theophylline SR,1
+0.5,Hydroxychloroquine Sulfate,1
+0.5,Niacin Flush Free,1
+0.5,Insulin Pump,1
+0.5,Acetylcysteine 20%,1
+0.5,Sulfameth/Trimethoprim SS,1
+0.5,Sulfameth/Trimethoprim DS,1
+0.5,Vecuronium Bromide,1
+0.5,Paroxetine,1
+0.5,Pramipexole,1
+0.5,OxycoDONE Liquid,1
+0.5,Carbamazepine XR,1
+0.5,Mycophenolate Mofetil,1
+0.5,Hydrocortisone Cream 0.5%,1
+0.5,CefePIME,1
+0.5,Fluoxetine,1
+0.5,SulfaSALAzine_,1
+0.48214285714285715,Dextrose 50%,1
+0.47770700636942676,Morphine Sulfate,1
+0.47619047619047616,Syringe,1
+0.47368421052631576,PNEUMOcoccal 23-valent polysaccharide vaccine,1
+0.47368421052631576,Oxycodone-Acetaminophen,1
+0.46666666666666667,Multivitamins,1
+0.45454545454545453,Influenza Virus Vaccine,1
+0.45,Mupirocin Nasal Ointment 2%,1
+0.45,Influenza Vaccine Quadrivalent,1
+0.44827586206896552,Levothyroxine Sodium,1
+0.44155844155844154,Ketorolac,1
+0.4375,GlyBURIDE,1
+0.42857142857142855,Amlodipine,1
+0.42857142857142855,Milrinone,1
+0.42857142857142855,Lidocaine 1%,1
+0.42222222222222222,SW,1
+0.4,Cinacalcet,1
+0.4,5% Dextrose (EXCEL BAG),1
+0.4,Fish Oil (Omega 3),1
+0.4,Azathioprine,1
+0.4,NS,1
+0.38461538461538464,Docusate Sodium,1
+0.38181818181818183,Vancomycin,1
+0.375,Losartan Potassium,1
+0.37037037037037035,HydrALAzine,1
+0.36363636363636365,Captopril,1
+0.35714285714285715,Thiamine,1
+0.35714285714285715,Heparin Sodium,1
+0.35426008968609868,5% Dextrose,1
+0.34033613445378152,Sodium Chloride 0.9%  Flush,1
+0.33898305084745761,HYDROmorphone (Dilaudid),1
+0.33333333333333331,Heparin Dwell (1000 Units/mL),1
+0.33333333333333331,Desipramine,1
+0.33333333333333331,PredniSONE,1
+0.33333333333333331,QUEtiapine Fumarate,1
+0.33333333333333331,NIFEdipine CR,1
+0.33333333333333331,D5W (EXCEL BAG),1
+0.33333333333333331,Epoetin Alfa,1
+0.33333333333333331,Sodium Chloride 0.9%,1
+0.33333333333333331,Advair Diskus,1
+0.33333333333333331,Enalapril Maleate,1
+0.33333333333333331,cilostazol,1
+0.33333333333333331,Cisatracurium Besylate,1
+0.33014354066985646,Ranitidine,1
+0.3,Duloxetine,1
+0.29739776951672864,Acetaminophen,1
+0.29032258064516131,Lorazepam,1
+0.2857142857142857,Colchicine,1
+0.2857142857142857,Quetiapine Fumarate,1
+0.2851985559566787,0.9% Sodium Chloride,1
+0.26229508196721313,Potassium Chloride,1
+0.25,Ferric Gluconate,1
+0.25,Heparin (Hemodialysis),1
+0.25,sevelamer CARBONATE,1
+0.25,Paricalcitol,1
+0.25,Citalopram,1
+0.25,Topiramate (Topamax),1
+0.25,Doxercalciferol,1
+0.2391304347826087,Insulin,1
+0.23867069486404835,Furosemide,1
+0.23684210526315788,Carvedilol,1
+0.20689655172413793,Haloperidol,1
+0.2,Neomycin-Polymyxin-Bacitracin,1
+0.19130434782608696,Amiodarone,1
+0.18439716312056736,Metoprolol Tartrate,1
+0.16438356164383561,Warfarin,1
+0.1111111111111111,Tacrolimus,1
+1.0,Dexamethasone,2
+1.0,Norepinephrine Bitartrate,2
+1.0,colestipol,2
+1.0,Timolol Maleate 0.5%,2
+1.0,Vial,2
+1.0,Midazolam,2
+1.0,Epinephrine,2
+1.0,Phytonadione,2
+1.0,Guai,2
+1.0,Finasteride,2
+1.0,Hydrochlorothiazide,2
+1.0,Potassium Phosphate,2
+1.0,Duloxetine,2
+1.0,Metoprolol Succinate XL,2
+1.0,Januvia,2
+1.0,Trimethobenzamide,2
+1.0,DOPamine,2
+1.0,Cephalexin,2
+1.0,Promethazine,2
+1.0,Guaifenesin,2
+1.0,Enoxaparin Sodium,2
+1.0,Nabumetone,2
+1.0,Spiriva with HandiHaler,2
+1.0,Insulin Reg Human (NovoLIN R),2
+1.0,Albuterol MDI,2
+1.0,Nystatin Oral Suspension,2
+1.0,Terazosin,2
+1.0,Norepinephrine,2
+1.0,Prasugrel,2
+1.0,Cyclobenzaprine,2
+1.0,Indomethacin,2
+1.0,Pantoprazole Sodium,2
+1.0,Lovastatin,2
+1.0,Fexofenadine,2
+1.0,Atropine Sulfate,2
+1.0,Chlorothiazide Sodium,2
+1.0,D5 1/2NS,2
+1.0,Piperacillin-Tazobactam,2
+1.0,Adenosine,2
+1.0,Cepastat (Phenol) Lozenge,2
+1.0,Triamcinolone Acetonide 0.1% Cream,2
+1.0,Sucralfate,2
+1.0,Lumigan,2
+1.0,Amaryl,2
+1.0,Hydrocerin,2
+1.0,Quinapril,2
+1.0,Donepezil,2
+1.0,Sodium Glycerophosphate,2
+1.0,Milrinone,2
+1.0,Albumin ,2
+1.0,QUEtiapine Fumarate,2
+1.0,ALPRAZolam,2
+1.0,Propoxyphene Nap.-Apap (N-100),2
+1.0,Artificial Tears,2
+1.0,JanUVIA,2
+1.0,Magnesium Oxide,2
+1.0,Mycophenolate Mofetil Suspension,2
+1.0,D10W,2
+1.0,Heparin Flush (1000 units/mL),2
+1.0,Miconazole 2% Cream,2
+1.0,Hydrocortisone Cream 0.5%,2
+1.0,Zolpidem Tartrate,2
+1.0,Leflunomide,2
+1.0,Acetaminophen w/Codeine,2
+1.0,Docusa,2
+1.0,Niacin,2
+1.0,Naproxen,2
+1.0,Hespan,2
+1.0,1/2 NS,2
+1.0,Nitroglycerin SL,2
+1.0,Estrogens Conjugated,2
+1.0,Alteplase 1mg/1mL ( Clearance ie. Temp TLCL ),2
+1.0,Hydrocortisone Cream 1%,2
+1.0,Calcium Chloride,2
+1.0,Guaifenesin-CODEINE Phosphate,2
+1.0,Lidocaine 1% (For PICC/Midline Insertions),2
+1.0,Sodium Polystyrene Sulfonate,2
+1.0,BuPROPion,2
+1.0,Acetaminophen-Caff-Butalbital,2
+0.98765432098765427,Chlorhexidine Gluconate 0.12% Oral Rinse,2
+0.97619047619047616,Docusate Sodium (Liquid),2
+0.975609756097561,Neostigmine,2
+0.97058823529411764,LR,2
+0.963855421686747,Insulin Human Regular,2
+0.95652173913043481,Dextrose 5%,2
+0.95652173913043481,Meperidine,2
+0.93023255813953487,Glycopyrrolate,2
+0.91764705882352937,Aspirin,2
+0.90384615384615385,Lactated Ringers,2
+0.9,Dexmedetomidine,2
+0.87912087912087911,Calcium Gluconate,2
+0.8571428571428571,Lidocaine Jelly 2% (Urojet),2
+0.8571428571428571,NORepinephrine,2
+0.8571428571428571,NiCARdipine IV,2
+0.8571428571428571,Protamine Sulfate,2
+0.8571428571428571,Vitamin D,2
+0.83606557377049184,D5W,2
+0.83333333333333337,0.83% Sodium Chloride,2
+0.8,Phosphorus,2
+0.8,Fish Oil (Omega 3),2
+0.8,Calcium Carbonate,2
+0.77922077922077926,Sterile Water,2
+0.77777777777777779,Sodium Chloride Nasal,2
+0.76923076923076927,Albumin 25% (12.5g / 50mL),2
+0.76744186046511631,Glucose Gel,2
+0.76,Pneumococcal Vac Polyvalent,2
+0.75,Guaifenesin ER,2
+0.75,Alteplase (Catheter Clearance),2
+0.75,Neutra-Phos,2
+0.75,Lactulose,2
+0.75,Vasopressin,2
+0.75,Ipratropium Bromide MDI,2
+0.75,Syringe (0.9% Sodium Chloride),2
+0.74712643678160917,Glucagon,2
+0.73684210526315785,Fentanyl Citrate,2
+0.73076923076923073,Albumin 5% (12.5g / 250mL),2
+0.72916666666666663,Heparin Flush (10 units/ml),2
+0.72413793103448276,Soln,2
+0.7155963302752294,Metoclopramide,2
+0.7142857142857143,Aluminum-Magnesium Hydrox.-Simethicone,2
+0.696969696969697,Albumin 5% (25g / 500mL),2
+0.69523809523809521,Bisacodyl,2
+0.6875,Senna,2
+0.6875,Sodium Bicarbonate,2
+0.68421052631578949,Polyethylene Glycol,2
+0.66666666666666663,TraZODone,2
+0.66666666666666663,Cepacol (Menthol),2
+0.66666666666666663,Fluticasone-Salmeterol Diskus (250/50) ,2
+0.66666666666666663,Fluticasone Propionate NASAL,2
+0.66666666666666663,Lidocaine 1%,2
+0.66666666666666663,Metolazone,2
+0.66666666666666663,GlipiZIDE,2
+0.66666666666666663,Iso-Osmotic Sodium Chloride,2
+0.66666666666666663,NS,2
+0.66666666666666663,Ciprofloxacin HCl,2
+0.66666666666666663,Tucks Hemorrhoidal Oint 1%,2
+0.66666666666666663,Citalopram Hydrobromide,2
+0.66666666666666663,Niacin SR,2
+0.66115702479338845,Nitroglycerin,2
+0.640625,Oxycodone-Acetaminophen (5mg-325mg),2
+0.625,FoLIC Acid,2
+0.61068702290076338,Propofol,2
+0.6,AcetaZOLamide Sodium,2
+0.6,Thiamine,2
+0.59230769230769231,CefazoLIN,2
+0.59090909090909094,Albuterol Inhaler,2
+0.5714285714285714,Ondansetron,2
+0.5714285714285714,Clopidogrel,2
+0.5714285714285714,D5W (EXCEL BAG),2
+0.56,Ipratropium Bromide Neb,2
+0.55555555555555558,GlyBURIDE,2
+0.55555555555555558,Sertraline,2
+0.54545454545454541,Oxycodone-Acetaminophen,2
+0.5423728813559322,TraMADOL (Ultram),2
+0.53488372093023251,HydrALAzine,2
+0.53333333333333333,Allopurinol,2
+0.53125,MetFORMIN (Glucophage),2
+0.52941176470588236,Omeprazole,2
+0.52941176470588236,SW,2
+0.52380952380952384,Multivitamins,2
+0.52173913043478259,Acetaminophen IV,2
+0.52,Albuterol 0.083% Neb Soln,2
+0.5161290322580645,Magnesium Sulfate,2
+0.51428571428571423,OxycoDONE (Immediate Release) ,2
+0.51111111111111107,Iso-Osmotic Dextrose,2
+0.5,Insulin Pump,2
+0.5,Phenylephrine,2
+0.5,MetFORMIN XR (Glucophage XR),2
+0.5,Calcitriol,2
+0.5,Lubiprostone,2
+0.5,Sodium Chloride,2
+0.5,Sarna Lotion,2
+0.5,Mupirocin Ointment 2%,2
+0.5,Psyllium,2
+0.5,Clobetasol Propionate 0.05% Cream,2
+0.5,Miconazole Powder 2%,2
+0.5,Xopenex Neb,2
+0.5,PredniSONE,2
+0.5,Loratadine,2
+0.5,Prochlorperazine,2
+0.5,Sodium Chloride 3% Inhalation Soln,2
+0.5,Milk of Magnesia,2
+0.5,Citalopram,2
+0.5,Artificial Tears Preserv. Free,2
+0.5,BuPROPion (Sustained Release),2
+0.5,OLANZapine (Disintegrating Tablet),2
+0.5,Ciprofloxacin IV,2
+0.5,LeVETiracetam,2
+0.5,Clarithromycin,2
+0.5,Gemfibrozil,2
+0.5,Amoxicillin,2
+0.5,Nicotine Patch,2
+0.5,Collagenase Ointment,2
+0.5,Fluocinolone Acetonide 0.01% Solution,2
+0.5,Ketoconazole 2% ,2
+0.5,GlipiZIDE XL,2
+0.5,Famotidine,2
+0.5,Cinacalcet,2
+0.5,LaMOTrigine,2
+0.5,ValACYclovir,2
+0.5,Calcium Acetate,2
+0.5,Ferrous Sulfate,2
+0.5,Readi-Cat 2 (Barium Sulfate 2% Suspension),2
+0.5,Silver Sulfadiazine 1% Cream,2
+0.5,Fleet Enema,2
+0.5,Imipramine,2
+0.5,Hydroxychloroquine Sulfate,2
+0.5,Rocuronium,2
+0.5,Zonisamide,2
+0.5,Acetylcysteine 20%,2
+0.5,Hemorrhoidal Suppository,2
+0.5,Losartan Potassium,2
+0.5,Docusat,2
+0.5,Fluocinonide 0.05% Cream,2
+0.49006622516556292,Syringe,2
+0.48888888888888887,Lisinopril,2
+0.48672566371681414,Bag,2
+0.48051948051948051,Morphine Sulfate,2
+0.47826086956521741,Albuterol-Ipratropium,2
+0.47368421052631576,Levothyroxine Sodium,2
+0.47222222222222221,Influenza Virus Vaccine,2
+0.47058823529411764,Tamsulosin,2
+0.47,PHENYLEPHrine,2
+0.46783625730994149,Aspirin EC,2
+0.46590909090909088,Atorvastatin,2
+0.4642857142857143,Heparin,2
+0.45833333333333331,EPINEPHrine,2
+0.45714285714285713,Dextrose 50%,2
+0.45,Amlodipine,2
+0.44444444444444442,Fluoxetine,2
+0.42857142857142855,Latanoprost 0.005% Ophth. Soln.,2
+0.42857142857142855,Pravastatin,2
+0.42857142857142855,Pantoprazole,2
+0.42857142857142855,Tiotropium Bromide,2
+0.41428571428571431,Ketorolac,2
+0.41176470588235292,Rosuvastatin Calcium,2
+0.41176470588235292,Heparin Sodium,2
+0.40322580645161288,Simvastatin,2
+0.4,Vancomycin,2
+0.4,Colchicine,2
+0.4,Fluticasone-Salmeterol Diskus (100/50),2
+0.4,DiphenhydrAMINE,2
+0.4,Influenza Vaccine Quadrivalent,2
+0.4,Fluticasone Propionate 110mcg,2
+0.4,Topiramate (Topamax),2
+0.39726027397260272,HYDROmorphone (Dilaudid),2
+0.39393939393939392,PNEUMOcoccal 23-valent polysaccharide vaccine,2
+0.3902439024390244,Docusate Sodium,2
+0.375,Venlafaxine XR,2
+0.375,Ezetimibe,2
+0.375,Gabapentin,2
+0.375,MetRONIDAZOLE (FLagyl),2
+0.36363636363636365,Mupirocin Nasal Ointment 2%,2
+0.35,Carvedilol,2
+0.35,Diltiazem,2
+0.34042553191489361,Sodium Chloride 0.9%  Flush,2
+0.33333333333333331,Tricor,2
+0.33333333333333331,sevelamer HYDROCHLORIDE,2
+0.33333333333333331,Myfortic,2
+0.33333333333333331,Valsartan,2
+0.33333333333333331,Bacitracin/Polymyxin B Sulfate Opht. Oint,2
+0.33333333333333331,Glimepiride,2
+0.33333333333333331,Strattera,2
+0.33333333333333331,Clonazepam,2
+0.33333333333333331,Ibuprofen,2
+0.33333333333333331,5% Dextrose (EXCEL BAG),2
+0.33333333333333331,Captopril,2
+0.33333333333333331,Fluticasone-Salmeterol Diskus (500/50) ,2
+0.33333333333333331,Tacrolimus,2
+0.33333333333333331,PleTAL,2
+0.33333333333333331,Brimonidine Tartrate 0.15% Ophth.,2
+0.33333333333333331,Nephrocaps,2
+0.33333333333333331,Montelukast,2
+0.32642487046632124,Ranitidine,2
+0.3110236220472441,5% Dextrose,2
+0.29924242424242425,0.9% Sodium Chloride,2
+0.29729729729729731,Lorazepam,2
+0.2857142857142857,Haloperidol,2
+0.2857142857142857,CefePIME,2
+0.2857142857142857,Acetaminophen,2
+0.26530612244897961,Insulin,2
+0.25,Diazepam,2
+0.25,Pancrelipase 5000,2
+0.25,0.9% Sodium Chloride (Mini Bag Plus),2
+0.25,Dofetilide,2
+0.22832369942196531,Potassium Chloride,2
+0.20204603580562661,Furosemide,2
+0.2,Levofloxacin,2
+0.2,Lidocaine,2
+0.18367346938775511,Warfarin,2
+0.16,Metoprolol Tartrate,2
+0.15897435897435896,Amiodarone,2
+1.0,Ferrous Gluconate,3
+1.0,Valsartan,3
+1.0,Xopenex Neb,3
+1.0,Lidocaine 1%/Epinephrine 1:100000,3
+1.0,Dorzolamide 2% Ophth. Soln.,3
+1.0,Fluticasone Propionate NASAL,3
+1.0,Albuterol MDI,3
+1.0,Bumetanide,3
+1.0,Aluminum Hydroxide Suspension,3
+1.0,Zolpidem Tartrate,3
+1.0,Sodium Phosphate,3
+1.0,DiphenhydrAMINE,3
+1.0,Gastroview (Diatrizoate Meglumine & Sodium),3
+1.0,Sodium Polystyrene Sulfonate,3
+1.0,Potassium Chloride (Powder),3
+1.0,DOBUTamine,3
+1.0,AcetaZOLamide,3
+1.0,Amoxicillin,3
+1.0,Clarithromycin,3
+1.0,D5LR,3
+1.0,Morphine Sulfate IR,3
+1.0,PHENObarbital - ICU Alcohol Withdrawal (Loading Dose 1) ,3
+1.0,Maalox/Diphenhydramine/Lidocaine,3
+1.0,Piperacillin-Tazobactam Na,3
+1.0,PHENObarbital - ICU Alcohol Withdrawal (Loading Dose 2 and 3),3
+1.0,Nitroglycerin SL,3
+1.0,Ipratropium-Albuterol Inhalation Spray,3
+1.0,Pantoprazole Sodium,3
+1.0,Phytonadione,3
+1.0,Ferrous Sulfate (Liquid),3
+1.0,Cephalexin,3
+1.0,Calcium Carbonate,3
+1.0,Tuberculin Protein,3
+1.0,fenofibrate,3
+1.0,Scopolamine Patch,3
+1.0,Sucralfate,3
+1.0,iodoquinol-HC,3
+1.0,Brimonidine Tartrate 0.15% Ophth.,3
+1.0,Miconazole 2% Cream,3
+1.0,Multivitamins W/minerals,3
+1.0,Prasugrel,3
+1.0,Propranolol,3
+1.0,Prochlorperazine,3
+1.0,Lantus,3
+1.0,album,3
+1.0,Artificial Tears Preserv. Free,3
+1.0,Hydrocortisone Na Succ.,3
+1.0,AcetaZOLamide Sodium,3
+1.0,Levofloxacin,3
+1.0,Mesalamine (Rectal),3
+1.0,Citrate Dextrose 3% (ACD-A) CRRT,3
+1.0,Ascorbic Acid (Liquid),3
+1.0,Nystatin,3
+1.0,Hyoscyamine,3
+1.0,Desmopressin Acetate,3
+1.0,Dorzolamide 2%/Timolol 0.5% Ophth.,3
+1.0,Alteplase 1mg/1mL ( Clearance ie. Temp TLCL ),3
+1.0,Timoptic-XE(Timolol maleate-XE),3
+1.0,Calcium Chloride,3
+1.0,Ipratropium Bromide MDI,3
+1.0,Magnesium Sulfate (Latex Free),3
+1.0,Vecuronium Bromide,3
+1.0,DiCYCLOmine,3
+1.0,Spironolactone,3
+1.0,Qvar,3
+1.0,Hydrocodone-Acetaminophen (5mg-500mg),3
+1.0,Ranitidine (Liquid),3
+1.0,GlipiZIDE XL,3
+1.0,Cosyntropin,3
+1.0,DOPamine,3
+1.0,Heparin (CRRT Machine Priming),3
+1.0,Maalox/Lidocaine,3
+1.0,Heparin Flush (1000 units/mL),3
+1.0,Sulfameth/Trimethoprim DS,3
+1.0,Fentanyl Patch,3
+1.0,Potassium Phosphate,3
+1.0,Erythromycin 0.5% Ophth Oint,3
+1.0,Hespan,3
+1.0,Heparin (IABP),3
+1.0,D10W,3
+0.9726027397260274,Insulin Human Regular,3
+0.95833333333333337,Dextrose 5%,3
+0.922077922077922,Neostigmine,3
+0.92156862745098034,Lactated Ringers,3
+0.91025641025641024,Chlorhexidine Gluconate 0.12% Oral Rinse,3
+0.9,Vasopressin,3
+0.9,Docusate Sodium (Liquid),3
+0.89873417721518989,Glycopyrrolate,3
+0.88235294117647056,NORepinephrine,3
+0.88235294117647056,Albumin 5% (12.5g / 250mL),3
+0.875,Meperidine,3
+0.8571428571428571,Lidocaine Jelly 2% (Urojet),3
+0.84057971014492749,Sterile Water,3
+0.83333333333333337,Metoprolol Succinate XL,3
+0.80851063829787229,Glucose Gel,3
+0.78481012658227844,Glucagon,3
+0.77777777777777779,Vial,3
+0.77777777777777779,Fentanyl Citrate,3
+0.77272727272727271,Soln,3
+0.76666666666666672,Aspirin,3
+0.76344086021505375,Calcium Gluconate,3
+0.75,Simethicone,3
+0.75,Midazolam,3
+0.75,Fluticasone-Salmeterol Diskus (100/50),3
+0.75,CeftriaXONE,3
+0.75,Albumin 25% (12.5g / 50mL),3
+0.75,traZODONE,3
+0.75,Fleet Enema,3
+0.7441860465116279,Heparin Flush (10 units/ml),3
+0.73333333333333328,Dexmedetomidine,3
+0.73333333333333328,EPINEPHrine,3
+0.72727272727272729,Neutra-Phos,3
+0.72727272727272729,LR,3
+0.72413793103448276,Protamine Sulfate,3
+0.72,Lactulose,3
+0.7142857142857143,Sodium Bicarbonate,3
+0.7142857142857143,Phosphorus,3
+0.7068965517241379,Oxycodone-Acetaminophen (5mg-325mg),3
+0.70329670329670335,Bisacodyl,3
+0.69230769230769229,Fluticasone Propionate 110mcg,3
+0.68,Metoclopramide,3
+0.66666666666666663,Esmolol,3
+0.66666666666666663,Senna,3
+0.66666666666666663,Sarna Lotion,3
+0.66666666666666663,Tolterodine,3
+0.66666666666666663,OxycoDONE Liquid,3
+0.66666666666666663,Albumin 5%,3
+0.66666666666666663,Sodium Chloride Nasal,3
+0.66666666666666663,Ciprofloxacin HCl,3
+0.66666666666666663,Vitamin D,3
+0.66666666666666663,Mupirocin Nasal Ointment 2%,3
+0.66666666666666663,Ondansetron ODT,3
+0.66666666666666663,Paroxetine,3
+0.66666666666666663,Atropine Sulfate,3
+0.66666666666666663,D5 1/2NS,3
+0.66666666666666663,ALPRAZolam,3
+0.65789473684210531,Oxycodone-Acetaminophen,3
+0.65,Ipratropium Bromide Neb,3
+0.64220183486238536,Nitroglycerin,3
+0.63265306122448983,CefazoLIN,3
+0.625,Metolazone,3
+0.625,BuPROPion (Sustained Release),3
+0.61538461538461542,Polyethylene Glycol,3
+0.6067415730337079,Albumin 5% (25g / 500mL),3
+0.6,Tricor,3
+0.6,Epinephrine,3
+0.6,Omeprazole,3
+0.6,Lansoprazole Oral Disintegrating Tab,3
+0.6,0.83% Sodium Chloride,3
+0.6,TraZODone,3
+0.59090909090909094,Albuterol Inhaler,3
+0.58333333333333337,Pneumococcal Vac Polyvalent,3
+0.57746478873239437,Acetaminophen IV,3
+0.5714285714285714,Epoetin Alfa,3
+0.5714285714285714,Piperacillin-Tazobactam,3
+0.5714285714285714,Latanoprost 0.005% Ophth. Soln.,3
+0.5714285714285714,Tiotropium Bromide,3
+0.5714285714285714,NiCARdipine IV,3
+0.5714285714285714,MetFORMIN (Glucophage),3
+0.56756756756756754,Heparin,3
+0.56666666666666665,SW,3
+0.5625,TraMADOL (Ultram),3
+0.55905511811023623,Propofol,3
+0.55555555555555558,Nephrocaps,3
+0.55,Clopidogrel,3
+0.54022988505747127,D5W,3
+0.53658536585365857,Albuterol 0.083% Neb Soln,3
+0.53488372093023251,Magnesium Sulfate,3
+0.53383458646616544,Milk of Magnesia,3
+0.52631578947368418,Albuterol-Ipratropium,3
+0.52112676056338025,Atorvastatin,3
+0.51282051282051277,Influenza Virus Vaccine,3
+0.51219512195121952,Lorazepam,3
+0.5,Aluminum-Magnesium Hydrox.-Simethicone,3
+0.5,Nicotine Patch,3
+0.5,Paricalcitol,3
+0.5,Ampicillin-Sulbactam,3
+0.5,Amoxicillin-Clavulanic Acid,3
+0.5,Hydrocortisone Cream 1%,3
+0.5,Mupirocin Ointment 2%,3
+0.5,Carbidopa-Levodopa (25-100),3
+0.5,Artificial Tear Ointment,3
+0.5,Diazepam,3
+0.5,Doxazosin,3
+0.5,glimepiride,3
+0.5,Nystatin Oral Suspension,3
+0.5,GlyBURIDE,3
+0.5,Finasteride,3
+0.5,Norepinephrine,3
+0.5,Famotidine,3
+0.5,Adderall,3
+0.5,Rosuvastatin Calcium,3
+0.5,Paxil CR,3
+0.5,Nitroprusside Sodium,3
+0.5,Calcitriol,3
+0.5,Docusate ,3
+0.5,Pyridoxine,3
+0.5,NS,3
+0.5,0.9% Sodium Chloride (Mini Bag Plus),3
+0.5,Magnesium Oxide,3
+0.5,Chlorothiazide Sodium,3
+0.5,Gemfibrozil,3
+0.5,Guaifenesin ER,3
+0.5,ValACYclovir,3
+0.5,Prismasate (B22 K4),3
+0.5,Vitamin A,3
+0.5,Clotrimazole Cream,3
+0.5,PrednisoLONE Acetate 1% Ophth. Susp.,3
+0.5,Fluticasone-Salmeterol Diskus (250/50) ,3
+0.5,Carbidopa-Levodopa (10-100),3
+0.5,Clonazepam,3
+0.5,Terazosin,3
+0.5,Lidocaine 1% (For PICC/Midline Insertions),3
+0.5,Dextromethorphan-Guaifenesin (Sugar Free),3
+0.5,Montelukast Sodium,3
+0.5,Sildenafil,3
+0.5,Isosorbide Mononitrate (Extended Release),3
+0.5,Cisatracurium Besylate,3
+0.5,Ibuprofen Suspension,3
+0.5,Niaspan,3
+0.5,Promethazine,3
+0.5,Fosphenytoin,3
+0.5,Methadone,3
+0.5,Ezetimibe,3
+0.5,Docusat,3
+0.5,OLANZapine (Disintegrating Tablet),3
+0.5,fenofibrate micronized,3
+0.5,Fish Oil (Omega 3),3
+0.5,1/2 NS,3
+0.5,Montelukast,3
+0.5,Citalopram,3
+0.49645390070921985,Aspirin EC,3
+0.48275862068965519,OxycoDONE (Immediate Release) ,3
+0.48214285714285715,Bag,3
+0.48,Ketorolac,3
+0.47826086956521741,Influenza Vaccine Quadrivalent,3
+0.47727272727272729,Simvastatin,3
+0.47368421052631576,Syringe,3
+0.47058823529411764,Phenylephrine,3
+0.47058823529411764,Vancomycin,3
+0.47058823529411764,PNEUMOcoccal 23-valent polysaccharide vaccine,3
+0.46938775510204084,Iso-Osmotic Dextrose,3
+0.46153846153846156,FoLIC Acid,3
+0.46153846153846156,Amlodipine,3
+0.45833333333333331,Multivitamins,3
+0.45454545454545453,Thiamine,3
+0.45222929936305734,Dextrose 50%,3
+0.44761904761904764,PHENYLEPHrine,3
+0.44736842105263158,Lisinopril,3
+0.44594594594594594,Morphine Sulfate,3
+0.44444444444444442,Calcium Acetate,3
+0.44444444444444442,Lidocaine 5% Patch,3
+0.42857142857142855,Cepastat (Phenol) Lozenge,3
+0.42857142857142855,Ondansetron,3
+0.42857142857142855,CloniDINE,3
+0.41176470588235292,Tamsulosin,3
+0.40909090909090912,Lidocaine 1%,3
+0.4,Cyanocobalamin,3
+0.4,QUEtiapine Fumarate,3
+0.4,Pantoprazole,3
+0.4,Duloxetine,3
+0.4,Sertraline,3
+0.4,Ciprofloxacin IV,3
+0.4,Enalaprilat,3
+0.3888888888888889,5% Dextrose (EXCEL BAG),3
+0.375,Diltiazem,3
+0.375,Cinacalcet,3
+0.36363636363636365,Midodrine,3
+0.36363636363636365,Pravastatin,3
+0.35714285714285715,Docusate Sodium,3
+0.35714285714285715,Allopurinol,3
+0.33333333333333331,Ursodiol,3
+0.33333333333333331,Gabapentin,3
+0.33333333333333331,sevelamer CARBONATE,3
+0.33333333333333331,Lidocaine,3
+0.33333333333333331,Alendronate Sodium,3
+0.33333333333333331,Phenytoin (Suspension),3
+0.33333333333333331,Pilocarpine 1%,3
+0.33333333333333331,Ipratropium-Albuterol Neb,3
+0.33333333333333331,Isosorbide Mononitrate,3
+0.33333333333333331,Atenolol,3
+0.33333333333333331,Captopril,3
+0.33333333333333331,Artificial Tears,3
+0.33333333333333331,Amantadine,3
+0.33333333333333331,LeVETiracetam,3
+0.33333333333333331,Labetalol,3
+0.33333333333333331,Oxybutynin,3
+0.33333333333333331,Trimethoprim,3
+0.33333333333333331,MetRONIDAZOLE (FLagyl),3
+0.33333333333333331,Hydrochlorothiazide,3
+0.33333333333333331,BuPROPion,3
+0.33333333333333331,NS (Mini Bag Plus),3
+0.328125,HydrALAzine,3
+0.32126696832579188,Sodium Chloride 0.9%  Flush,3
+0.32,Milrinone,3
+0.31578947368421051,Levothyroxine Sodium,3
+0.29468599033816423,Ranitidine,3
+0.29411764705882354,HYDROmorphone (Dilaudid),3
+0.29310344827586204,Insulin,3
+0.2857142857142857,Losartan Potassium,3
+0.2857142857142857,Baclofen,3
+0.28225806451612906,Potassium Chloride,3
+0.27099236641221375,Acetaminophen,3
+0.25925925925925924,Haloperidol,3
+0.25090909090909091,0.9% Sodium Chloride,3
+0.25,Dofetilide,3
+0.25,ChlorproMAZINE,3
+0.25,Heparin Sodium,3
+0.25,Heparin Dwell (1000 Units/mL),3
+0.25,CefePIME,3
+0.25,Insulin (Regular) for Hyperkalemia,3
+0.25,D5W (EXCEL BAG),3
+0.24295774647887325,5% Dextrose,3
+0.22222222222222221,Ibuprofen,3
+0.21428571428571427,Carvedilol,3
+0.21052631578947367,Amiodarone,3
+0.21052631578947367,Sodium Chloride 0.9%,3
+0.2,Torsemide,3
+0.2,Lithium Carbonate,3
+0.18857142857142858,Furosemide,3
+0.16666666666666666,OxyCODONE SR (OxyconTIN),3
+0.1642156862745098,Metoprolol Tartrate,3
+0.14893617021276595,Warfarin,3
+0.14285714285714285,PredniSONE,3
+0.125,Sodium CITRATE 4%,3
+0.1,Neomycin-Polymyxin-Bacitracin,3

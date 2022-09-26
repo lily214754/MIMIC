@@ -1,0 +1,169 @@
+description,counts
+INR(PT),892
+"Hematocrit, Calculated",892
+RDW,892
+MCHC,892
+Hematocrit,892
+MCV,892
+MCH,892
+PT,892
+PTT,892
+White Blood Cells,892
+Platelet Count,892
+Hemoglobin,892
+Red Blood Cells,892
+"Chloride, Whole Blood",892
+Calculated Total CO2,892
+Base Excess,892
+"Potassium, Whole Blood",892
+Anion Gap,892
+Bicarbonate,892
+Chloride,892
+Sodium,892
+"Sodium, Whole Blood",892
+Potassium,892
+Urea Nitrogen,892
+Creatinine,892
+Glucose,892
+pO2,892
+pCO2,892
+pH,892
+Free Calcium,892
+Lactate,892
+Magnesium,889
+Oxygen Saturation,752
+"Fibrinogen, Functional",733
+"Calcium, Total",640
+Phosphate,637
+Lymphocytes,332
+Monocytes,330
+Eosinophils,329
+Basophils,328
+Neutrophils,328
+Specific Gravity,288
+Asparate Aminotransferase (AST),215
+Alanine Aminotransferase (ALT),215
+Alkaline Phosphatase,213
+"Bilirubin, Total",208
+Amylase,173
+Temperature,167
+Lactate Dehydrogenase (LD),157
+Lipase,156
+Albumin,156
+Oxygen,134
+WBC,126
+Epithelial Cells,123
+RBC,121
+PEEP,110
+Protein,75
+Hyaline Casts,62
+% Hemoglobin A1c,62
+Tidal Volume,50
+RDW-SD,48
+Creatine Kinase (CK),43
+eAG,43
+Absolute Lymphocyte Count,41
+Absolute Monocyte Count,41
+Absolute Basophil Count,41
+Absolute Neutrophil Count,41
+Absolute Eosinophil Count,41
+Immature Granulocytes,36
+Bands,36
+Ketone,33
+Vancomycin,32
+"Creatine Kinase, MB Isoenzyme",32
+Urobilinogen,30
+O2 Flow,30
+Atypical Lymphocytes,26
+Metamyelocytes,26
+Myelocytes,26
+Required O2,26
+Alveolar-arterial Gradient,26
+Troponin T,22
+"Calculated Bicarbonate, Whole Blood",21
+Thyroid Stimulating Hormone,20
+"Creatinine, Urine",18
+"Sodium, Urine",17
+"Osmolality, Urine",15
+"Cholesterol, Total",14
+"Potassium, Urine",13
+Triglycerides,13
+CK-MB Index,12
+"Cholesterol, HDL",12
+Vitamin B12,12
+"Chloride, Urine",12
+"Urea Nitrogen, Urine",12
+Cholesterol Ratio (Total/HDL),12
+"Bilirubin, Indirect",11
+"Cholesterol, LDL, Calculated",11
+"Bilirubin, Direct",11
+Transitional Epithelial Cells,9
+"Reticulocyte Count, Automated",8
+Nucleated Red Cells,8
+Cortisol,7
+Uric Acid,7
+Iron,7
+Thyroxine (T4),6
+tacroFK,5
+Haptoglobin,5
+Ferritin,5
+Digoxin,5
+"Iron Binding Capacity, Total",5
+Transferrin,5
+Sedimentation Rate,5
+Triiodothyronine (T3),4
+Polys,4
+Protein/Creatinine Ratio,4
+C-Reactive Protein,4
+"Total Protein, Urine",4
+Granular Casts,4
+Carboxyhemoglobin,4
+Parathyroid Hormone,3
+"Osmolality, Measured",3
+Folate,3
+Bacteria,3
+"Thyroxine (T4), Free",2
+"Uric Acid, Urine",2
+Globulin,2
+Anticardiolipin Antibody IgG,2
+Ammonia,2
+"Magnesium, Urine",2
+"Protein, Total",2
+Lithium,2
+Anticardiolipin Antibody IgM,2
+"Lactate Dehydrogenase, Pleural",2
+Prostate Specific Antigen,2
+Uptake Ratio,2
+"Glucose, Pleural",2
+"Total Protein, Pleural",2
+Methemoglobin,2
+Monos,2
+NTproBNP,2
+"Calcium, Urine",2
+Calculated Thyroxine (T4) Index,2
+Calculated TBG,2
+"Albumin, Pleural",1
+"Albumin/Creatinine, Urine",1
+Cellular Cast,1
+"RBC, Pleural",1
+"Phosphate, Urine",1
+ARCH-1,1
+Macrophage,1
+Other,1
+"Total Nucleated Cells, Other",1
+"RBC, Other Fluid",1
+"Total Nucleated Cells, Ascites",1
+"Albumin, Urine",1
+Other Cells,1
+"RBC, Ascites",1
+Rheumatoid Factor,1
+Phenytoin,1
+Prolactin,1
+Mesothelial Cell,1
+"Total Nucleated Cells, Pleural",1
+"Cholesterol, Pleural",1
+"RBC, Joint Fluid",1
+"Total Nucleated Cells, Joint",1
+"Cholesterol, LDL, Measured",1
+Gentamicin,1
+Cyclosporin,1
