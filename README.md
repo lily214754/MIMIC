@@ -18,6 +18,9 @@
 #### EPIC_EDA_selected.ipynb
 - EPIC EDA for specific questions
 
+#### Selected plots repo
+- final selected plots in the final report
+
 #### Statistical analysis.ipynb
 - utilize data extracted from EDA files(save as npy file) and to do statistical analysis.
 - for Continuous value using Mann-Whitney U test
@@ -26,5 +29,4 @@
 ### Meeting minutes repo
 - records for important meetings
 
-### Selected plots repo
-- final selected plots in the final report
+
